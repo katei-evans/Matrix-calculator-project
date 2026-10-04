@@ -1,0 +1,6 @@
+{
+  "java.project.referencedLibraries": [
+    "C:/Users/caleb/OneDrive/Documents/project/Matrix-calculator-project/javafx-sdk-27/lib/*.jar"
+  ],
+  "java.debug.settings.vmArgs": "--module-path C:/Users/caleb/OneDrive/Documents/project/Matrix-calculator-project/javafx-sdk-27/lib --add-modules javafx.controls"
+}

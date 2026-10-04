@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run MatrixCalculator",
+      "request": "launch",
+      "mainClass": "matrixcalculator.MatrixCalculator",
+      "vmArgs": "--module-path \"C:/Users/caleb/OneDrive/Documents/project/Matrix-calculator-project/javafx-sdk-27/lib\" --add-modules javafx.controls"
+    }
+  ]
+}
